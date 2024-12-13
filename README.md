@@ -1,6 +1,6 @@
-# Node.js Express Login and Registration example with JWT
+# Node.js Express Login and Registration
 
-- Appropriate Flow for User Login and Registration with JWT Authentication
+- Appropriate Flow for User Login and Registration  Authentication
 - Node.js Express Architecture with CORS, Authentication & Authorization middlewares & Sequelize
 - How to configure Express routes to work with JWT
 - How to define Data Models and association for Authentication and Authorization
@@ -8,15 +8,6 @@
 
 ## User Registration, User Login and Authorization process.
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
-
-![node-js-express-login-example-flow](node-js-express-login-example-flow.png)
-
-For more detail, please visit:
-> [Node.js Express Login and Registration example with JWT](https://www.bezkoder.com/node-js-express-login-example/)
-
-Front-end that works with this Node back-end:
-- [Angular 12](https://www.bezkoder.com/angular-12-jwt-auth-httponly-cookie/) / [Angular 13](https://www.bezkoder.com/angular-13-jwt-auth-httponly-cookie/) / [Angular 14](https://www.bezkoder.com/angular-14-jwt-auth/) / [Angular 15](https://www.bezkoder.com/angular-15-jwt-auth/) / [Angular 16](https://www.bezkoder.com/angular-16-jwt-auth/) / [Angular 17](https://www.bezkoder.com/angular-17-jwt-auth/)
-- [React](https://www.bezkoder.com/react-login-example-jwt-hooks/) / [React Redux](https://www.bezkoder.com/redux-toolkit-auth/)
 
 ## More Practice:
 > [Build Node.js Rest APIs with Express, Sequelize & MySQL](https://www.bezkoder.com/node-js-express-sequelize-mysql/)
